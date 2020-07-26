@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="left" width="150" height="150" alt="Dani Akash" src="./assets/avatar.png"/>
+
+### I'm [Dani Akash](https://daniakash.com)
+
+A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter](https://twitter.com/dani_akash_) if you'd like to talk ✌️
+
+### I'm Currently
+
+- 📚 Mentoring budding programmers
+- ⚛️ Building open source react native components
 
 <!--
 **DaniAkash/DaniAkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
