@@ -11,7 +11,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 - 📚 Mentoring budding programmers
 - ⚛️ Building open source [react native components][rn-toolkit]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)][github]
 
 <!--
 **DaniAkash/DaniAkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 [twitch]: https://www.twitch.tv/dani_akash_
 [rn-toolkit]: https://github.com/react-native-toolkit
 [reddit]: https://www.reddit.com/user/dani_akash_
+[github]: https://github.com/daniakash
