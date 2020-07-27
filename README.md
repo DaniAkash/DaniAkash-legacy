@@ -4,6 +4,8 @@
 
 A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter](https://twitter.com/dani_akash_) if you'd like to talk ✌️
 
+![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?label=Follow%20me%20on%20Twitter&style=for-the-badge) [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)](https://www.twitch.tv/dani_akash_)
+
 ### I'm Currently
 
 - 📚 Mentoring budding programmers
