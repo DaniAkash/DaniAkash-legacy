@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="./assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
 ### I'm [Dani Akash][homepage]
 
