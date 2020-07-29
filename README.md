@@ -11,6 +11,8 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 - 📚 Mentoring budding programmers
 - ⚛️ Building open source [react native components][rn-toolkit]
 
+<img src="https://readme-stats-git-vercel-setup.daniakash.vercel.app/api/get-trello-cards" />
+
 <!--
 **DaniAkash/DaniAkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
