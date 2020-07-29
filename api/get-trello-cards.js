@@ -13,7 +13,7 @@ export default (req, res) => {
       res.setHeader("Content-Type", "image/svg+xml");
       res.status(200).send(
         `
-        <svg fill="none" viewBox="0 0 800 ${height}" width="800" height="${height}" xmlns="http://www.w3.org/2000/svg">
+        <svg fill="none" viewBox="0 0 350 ${height}" width="350" height="${height}" xmlns="http://www.w3.org/2000/svg">
           <foreignObject height="100%" width="100%">
             <div xmlns="http://www.w3.org/1999/xhtml">
               <style>
