@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="./assets/avatar.png"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
 ### I'm [Dani Akash][homepage]
 
@@ -14,6 +14,8 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 ### From my [Trello Board][trello-board]
 
 [<img src="https://readme-stats-git-vercel-setup.daniakash.vercel.app/api/get-trello-cards" />][trello-board]
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)][github]
 
 <!--
 **DaniAkash/DaniAkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +37,5 @@ Here are some ideas to get you started:
 [twitch]: https://www.twitch.tv/dani_akash_
 [rn-toolkit]: https://github.com/react-native-toolkit
 [reddit]: https://www.reddit.com/user/dani_akash_
+[github]: https://github.com/daniakash
 [trello-board]: https://trello.com/b/1zB34Jab/whats-dani-upto
