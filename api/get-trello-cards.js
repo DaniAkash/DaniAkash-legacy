@@ -9,6 +9,7 @@ export default (req, res) => {
       const list = result.map((each) => {
         return `<li><a href="${each.url}" target="_blank">${each.name}</a></li>`;
       });
+      res.setHeader("Content-Type", "image/svg+xml");
       res.status(200).send(
         `
         <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
