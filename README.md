@@ -15,10 +15,11 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 ### Stuff I'm really good at
 
-<img height="20" style="padding: 4px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" style="padding: 4px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
-<img height="20" style="padding: 4px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
-<img height="20" style="padding: 4px;" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png">
+<p>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+</p>
 
 ### Active projects from my [Trello Board][trello-board]
 
