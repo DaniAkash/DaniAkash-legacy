@@ -23,7 +23,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 ### Active projects from my [Trello Board][trello-board]
 
-[<img src="https://readme-stats-git-vercel-setup.daniakash.vercel.app/api/get-trello-cards" />][trello-board]
+[<img src="https://readme-stats.vercel.app/api/get-trello-cards" />][trello-board]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniakash&layout=compact)][github]
 
