@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/DaniAkash/DaniAkash#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
